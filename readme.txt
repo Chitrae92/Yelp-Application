@@ -1,4 +1,4 @@
-## **Data Analysis application for Yelp.com's business review data**
+## Data Analysis application for Yelp.com's business review data
 
 The standalone Java application built helps in running queries on the Yelp data and extracts useful information(businesses) based on checkin,reviews and users information.
 
