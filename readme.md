@@ -10,4 +10,6 @@ Yelp dataset has been taken from the "Yelp Dataset Challenge" conducted in 2013.
 
 Oracle 11g database has been used to store the data and the GUI has been designed using Java swing. Indexes has been used to make the fetching of queries faster.
 
-![alt text]()
+![alt text](https://github.com/Chitrae92/Yelp-Data-Analysis/blob/master/Business%20Search%20-%20UI%20Sample.PNG)
+
+![alt text](https://github.com/Chitrae92/Yelp-Data-Analysis/blob/master/User%20Search%20-%20UI%20Sample.PNG)
