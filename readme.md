@@ -12,4 +12,8 @@ Oracle 11g database has been used to store the data and the GUI has been designe
 
 ![alt text](https://github.com/Chitrae92/Yelp-Data-Analysis/blob/master/Business%20Search%20-%20UI%20Sample.PNG)
 
+<p align="center">
+<b>Figure 1 - Yelp Application Main UI (Business Search)</b>
+</p>
+
 ![alt text](https://github.com/Chitrae92/Yelp-Data-Analysis/blob/master/User%20Search%20-%20UI%20Sample.PNG)
