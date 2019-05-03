@@ -46,14 +46,14 @@ public class hw3 {
 	private JTextField reviewStarValue;
 	private JTextField reviewVotesValue;
 	private HashSet<String> mainCategory = new HashSet<String>();
-    private HashSet<String> subCategory = new HashSet<String>();
-    private JPanel subCategoryPanel;
-    private JComboBox<String> checkinFromDayComboBox;
-    private JComboBox<String> checkinToDayComboBox;
-    private JComboBox<String> checkinCountComboBox;
-    private JComboBox<String> reviewStarComboBox;
-    private JComboBox<String> reviewVotesComboBox;
-    public JScrollPane scrollPane ;
+	private HashSet<String> subCategory = new HashSet<String>();
+	private JPanel subCategoryPanel;
+	private JComboBox<String> checkinFromDayComboBox;
+	private JComboBox<String> checkinToDayComboBox;
+	private JComboBox<String> checkinCountComboBox;
+	private JComboBox<String> reviewStarComboBox;
+	private JComboBox<String> reviewVotesComboBox;
+	public JScrollPane scrollPane ;
 
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
